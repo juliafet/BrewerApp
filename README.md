@@ -1,3 +1,9 @@
+# Learn Angular 8 from Scratch for Beginners - Crash Course by DesignCourse
+
+https://www.youtube.com/watch?v=_TLhUCjY9iA
+
+
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
